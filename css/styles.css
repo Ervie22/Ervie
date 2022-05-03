@@ -1,0 +1,23 @@
+body {
+  background-color: #66DE93;
+  font-family: cursive;
+  
+}
+img {
+  padding-left: 500px;
+}
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: grey;
+}
+}
+h1 {
+  color: #F900BF;
+}
+h2 {
+  color: #D83A56;
+}
+h3 {
+  color: #F900BF;
+}
